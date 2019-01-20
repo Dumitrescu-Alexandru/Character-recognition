@@ -4,7 +4,7 @@ Digit and letter recognition neural networks using MNIST and EMNIST datasets. Va
 
 ## Prerequisites
 
- - Libraries: __TensorFlow, matplotlib, tkinter, pickle, opencv, PyQT5, pandas,
+ - Libraries: __TensorFlow, matplotlib, tkinter, pickle, opencv, PyQT5, pandas__
  - Data: MNIST and EMNIST binary datasets (found in the data folder)
  - The 
  
