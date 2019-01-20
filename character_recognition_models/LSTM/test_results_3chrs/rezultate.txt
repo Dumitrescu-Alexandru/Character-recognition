@@ -1,0 +1,4 @@
+for image number 0: fxx
+true string: bid
+for image number 100: aot
+true string: get

@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:\\Users\\alex_\\PycharmProjects\\Licenta\\sources\\1chr_digits_model_conv.ckpt"
+all_model_checkpoint_paths: "C:\\Users\\alex_\\PycharmProjects\\Licenta\\sources\\1chr_digits_model_conv.ckpt"
